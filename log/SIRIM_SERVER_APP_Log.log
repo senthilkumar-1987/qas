@@ -1,0 +1,38 @@
+2020-08-12 15:40:58 info [app.js]: USerName mimy
+Password 123456
+
+2020-08-12 15:40:58 info [app.js]: This Is Email --> false
+2020-08-12 15:40:58 info [app.js]: logger UserData 
+undefined
+2020-08-12 15:45:24 info [app.js]: USerName mimy
+Password 123456
+
+2020-08-12 15:45:24 info [app.js]: This Is Email --> false
+2020-08-12 15:45:24 info [app.js]: logger UserData 
+undefined
+2020-08-12 20:04:22 info [app.js]: USerName mimy
+Password 123456
+
+2020-08-12 20:04:22 info [app.js]: This Is Email --> false
+2020-08-12 20:04:23 info [app.js]: logger UserData 
+undefined
+2020-08-14 23:57:10 info [app.js]: USerName mimy
+Password 123456
+
+2020-08-14 23:57:10 info [app.js]: This Is Email --> false
+2020-08-14 23:57:11 info [app.js]: logger UserData 
+undefined
+2020-08-14 23:59:35 info [app.js]: USerName narysma@gmail.com
+Password admin@123
+
+2020-08-14 23:59:35 info [app.js]: This Is Email --> true
+2020-08-14 23:59:36 info [app.js]: userData TBL_SIRIM_USER 
+[{"id":"7","register_id":"6","cust_code":"06002126","username":"narysma@gmail.com","password":"96b539b1fa1ea98799f6019e5a4d985d","status":"Active","first_login":"N  ","created_date":"2020-07-17T09:48:20.807Z","created_by":"masitah","modified_date":"2020-08-10T19:34:29.243Z","modified_by":"narysma@gmail.com","role_id":"1","secret_question":"What is your favourite Book?","secret_answer":"1","contact_person_name":"LEE JONG HUAH","email":"narysma@gmail.com","company_name":"STEEL RECON INDUSTRIES SDN.BHD.","mobile_no":"-","fax_no":"","remarks":""}]
+2020-08-14 23:59:57 info [app.js]: USerName narysma@gmail.com
+Password nar12@
+
+2020-08-14 23:59:57 info [app.js]: This Is Email --> true
+2020-08-14 23:59:57 info [app.js]: userData TBL_SIRIM_USER 
+[{"id":"7","register_id":"6","cust_code":"06002126","username":"narysma@gmail.com","password":"96b539b1fa1ea98799f6019e5a4d985d","status":"Active","first_login":"N  ","created_date":"2020-07-17T09:48:20.807Z","created_by":"masitah","modified_date":"2020-08-10T19:34:29.243Z","modified_by":"narysma@gmail.com","role_id":"1","secret_question":"What is your favourite Book?","secret_answer":"1","contact_person_name":"LEE JONG HUAH","email":"narysma@gmail.com","company_name":"STEEL RECON INDUSTRIES SDN.BHD.","mobile_no":"-","fax_no":"","remarks":""}]
+2020-08-14 23:59:58 info [app.js]: logger UserData 
+undefined

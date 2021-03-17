@@ -1,0 +1,68 @@
+{
+    "IDNo": "99000008",
+    "Name": "BINA PLASTIC INDUSTRIES SDN. BHD.",
+    "InvoiceNo": "351X1904707",
+    "AddressLine1": "LOT 4844",
+    "AddressLine2": "BALAKONG NEW VILLAGE INDUSTRIAL ESTATE",
+    "AddressLine3": "43300 SERI KEMBANGAN",
+    "City": "SELANGOR",
+    "Date": "07-03-2019",
+    "YourPONo": "",
+    "FileNo": "P5-003301",
+    "Attention": "MR. MOHD. FAZLIAFIZAN B FAUZI/MS. MAY",
+    "TelNo": "03-89612107",
+    "CompletionDate": "04-03-2019",
+    "TotalSales": "500.00",
+    "LessAdvancePaid": "0.00",
+    "NetSalesAfterAdvance": "500.00",
+    "AddServiceTax": "0.00",
+    "RoundingAdjustment": "0.00",
+    "TotalAmountPayable": "500.00",
+    "PreparedBy": "NOR AZIAH BINTI MD HASAN",
+    "ApprovedBy": "MD ADHA RAHMAT",
+    "terms":"CREDIT TERM IS STRICTLY 30 DAYS",
+    "itemList": [
+        {
+            "SNo": "1",
+            "Description": "Initial Audit Fee",
+            "JobDate": "25.04.2019",
+            "ExpiryDate": "05.07.2019-05.07.2020",
+            "Total": "500.00"
+        },
+        {
+            "SNo": "",
+            "Description": "Product Name: POLYETHYLENE ",
+            "JobDate": "25.04.2019",
+            "ExpiryDate": "05.07.2019-05.07.2020",
+            "Total": "500.00"
+        },
+        {
+            "SNo": "",
+            "Description": "PO / Inspector Name: MUHAMMAD HAIDHAR BIN ABDUL MANAP",
+            "JobDate": "25.04.2019",
+            "ExpiryDate": "05.07.2019-05.07.2020",
+            "Total": "500.00"
+        },
+        {
+            "SNo": "",
+            "Description": "Location ",
+            "JobDate": "25.04.2019",
+            "ExpiryDate": "05.07.2019-05.07.2020",
+            "Total": "500.00"
+        },
+        {
+            "SNo": "",
+            "Description": "Job No: J201111-099 IB/AB/CB: ",
+            "JobDate": "25.04.2019",
+            "ExpiryDate": "05.07.2019-05.07.2020",
+            "Total": "500.00"
+        },
+        {
+            "SNo": "2",
+            "Description": "Initial Audit Fee",
+            "JobDate": "25.04.2019",
+            "ExpiryDate": "05.07.2019-05.07.2020",
+            "Total": "500.00"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    
+    "responseList": [
+        {
+            "QuoteNo": "99000008",
+            "CompName": "BINA PLASTIC INDUSTRIES SDN. BHD.",
+            "InvoiceNo": "351X1904707",
+            "AddressLine1": "LOT 4844",
+            "AddressLine2": "BALAKONG NEW VILLAGE INDUSTRIAL ESTATE",
+            "AddressLine3": "43300 SERI KEMBANGAN",
+            "City": "SELANGOR",
+            "Date": "07-03-2019",
+            "YourPONo": "",
+            "FileId": "P5-003301",
+            "Attention": "MR. MOHD. FAZLIAFIZAN B FAUZI/MS. MAY",
+            "TelNo": "03-89612107",
+            "CompletionDate": "04-03-2019",
+            "TotalSales": "500.00",
+            "LessAdvancePaid": "0.00",
+            "NetSalesAfterAdvance": "500.00",
+            "AddServiceTax": "0.00",
+            "RoundingAdjustment": "0.00",
+            "Currency":"USD",
+            "Total": "500.00",
+            "PreparedBy": "NOR AZIAH BINTI MD HASAN",
+            "ApprovedBy": "MD ADHA RAHMAT",
+            "InvoiceDesc":"CREDIT TERM IS STRICTLY 30 DAYS Cheque to be made payable to SIRIM QAS INTERNATIONAL SDN BHD Payment can also be made into RHB account number 2-12451-4008608-7/Swift code:RHBBMYKL. Please send the bank-in     slip/ payment advice by e-mail to finqas@sirim.my or fax to 603-55445672 as proof of payment. Receipt based on request only."
+        }
+    ]
+}
